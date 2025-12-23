@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Crystal
+  - Fire Ball
+  - Enemy
+  - Room
+  - AbilityUI
+  - EnemyStatsUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Background
+  - Ground
+  - Decorations
+  - Walls
+  - Projectile
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Pause Blur
+  - Modal Window
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 1134965849
+    locked: 0
+  - name: UI
+    uniqueID: 3380990983
+    locked: 0
+  m_RenderingLayers:
+  - Default
