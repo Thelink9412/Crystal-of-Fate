@@ -25,7 +25,7 @@
 * **Progressive Difficulty:** Conquer 4 challenging levels, each divided into 4 intense rounds, totaling 16 unique engagements.
 * **Gold Economy & Upgrades:** Earn Gold by defeating enemies (rarer enemies drop more!). Invest your earnings between rounds to strengthen your characters and prepare for tougher challenges.
 
-![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc4MDB1MTdjMHExZndtYzcxNTY1bHNoOXZsNWRjZDJqcnI5bzJybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BIo1PgmFD1Ul6Kubs/giphy.gif)
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9pdHIzbHg5NTFka3dqdmk2MG80cTltMTFuN2lvNmtnN2V1dWt0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeoFXCX85KbvxwbEcC/giphy.gif)
 
 ---
 
@@ -48,18 +48,12 @@ Developing *Crystal of Fate* presented several complex architectural challenges,
 * **Solution:** Developed a custom Spawning System that procedurally determines enemy types and quantities per wave, ensuring varied gameplay. Rarity tiers influence drop rates for Gold.
 * **Front-end Parallel:** Relevant to building dynamic content feeds, randomized user experiences (e.g., A/B testing variations, content recommendations), or data visualization dashboards that adapt to incoming data.
 
-### 4. Event-Driven Communication
-* **Challenge:** Ensuring seamless communication between disparate game systems (e.g., enemy defeated -> UI updates score -> character levels up) without tight coupling.
-* **Solution:** Utilized C# Events and Delegates to establish an **event-driven architecture**. For instance, when an enemy is defeated, an event is broadcast, allowing the UI, economy system, and character progress trackers to react independently.
-* **Front-end Parallel:** Directly applicable to event handling in the DOM, custom events in JavaScript, or using libraries like **Pub/Sub** for decoupled communication between different parts of a web application.
-
 ---
 
 ## 🛠️ Tech Stack
 
 * **Game Engine:** Unity 2022.x
 * **Programming Language:** C#
-* **Core Patterns:** Singleton, Observer Pattern (via C# Events/Delegates), State Pattern (for game states).
 
 ---
 
@@ -67,14 +61,18 @@ Developing *Crystal of Fate* presented several complex architectural challenges,
 
 ```text
 ├── Assets
-│   ├── _Scripts            <-- All core C# game logic (GameManager, Enemy AI, Character Abilities, UI Logic)
-│   ├── Audio               <-- Sound effects and music
-│   ├── Prefabs             <-- Reusable GameObjects (Enemies, Characters, UI elements)
+│   ├── Characters          <-- ScirptableObjects, assets and C# scripts for the PCs
+│   ├── Enemies             <-- ScirptableObjects, assets and C# scripts for the enemies 
+│   ├── Generic Scripts     <-- All core C# game logic (GameManager, Enemy AI, Character Abilities, UI Logic)
+│   ├── Palettes            <-- Paletts used
 │   ├── Scenes              <-- Game levels and menus
+│   ├── Settings            <-- General Settings
+│   ├── Sounds               <-- Sound effects and music
 │   ├── Sprites             <-- 2D graphics and textures
-│   └── UI                  <-- User Interface assets and layouts
-├── ProjectSettings         <-- Unity's project configuration files
+│   ├── TextMesh PRO        <-- TextMesh Library used for text boxes
+│   └── Tiles               <-- Tiles for maps and ground
 ├── Packages                <-- Unity Package Manager definitions
+├── ProjectSettings         <-- Unity's project configuration files
 ├── .gitignore              <-- Specifies intentionally untracked files to ignore
 ├── README.md               <-- Project documentation
 ```
