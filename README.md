@@ -6,19 +6,19 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 "Crystal of Fate" is a compelling **room-based Tower Defense** experience. Players strategically place defensive characters within various rooms to protect a central crystal from relentless waves of randomly generated enemies. While my primary focus is on **Front-end Development**, this project was designed to hone crucial programming skills such as **state management, object-oriented design, dynamic data handling, and robust economic systems**, which are directly transferable to building scalable and interactive web applications.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 * **Link to the build:** https://thelink9412.itch.io/crystal-of-fate
 
 ---
 
-## ✨ Gameplay Features
+## Gameplay Features
 
 * **Strategic Room Defense:** Position unique defensive characters in various rooms to create an impenetrable perimeter around the Crystal.
 * **Dynamic Enemy Spawns:** Face randomized enemy waves across three distinct rarity categories, each offering escalating challenges and rewards.
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Technical Deep Dive: Key Learnings for a Front-end Developer
+## Technical Deep Dive: Key Learnings for a Front-end Developer
 
 Developing *Crystal of Fate* presented several complex architectural challenges, providing hands-on experience with principles vital for building modern web applications:
 
@@ -50,14 +50,14 @@ Developing *Crystal of Fate* presented several complex architectural challenges,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Game Engine:** Unity 2022.x
 * **Programming Language:** C#
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── Assets
@@ -67,7 +67,7 @@ Developing *Crystal of Fate* presented several complex architectural challenges,
 │   ├── Palettes            <-- Paletts used
 │   ├── Scenes              <-- Game levels and menus
 │   ├── Settings            <-- General Settings
-│   ├── Sounds               <-- Sound effects and music
+│   ├── Sounds              <-- Sound effects and music
 │   ├── Sprites             <-- 2D graphics and textures
 │   ├── TextMesh PRO        <-- TextMesh Library used for text boxes
 │   └── Tiles               <-- Tiles for maps and ground
@@ -78,7 +78,7 @@ Developing *Crystal of Fate* presented several complex architectural challenges,
 ```
 ---
 
-## 🔧 How to Run Locally
+## How to Run Locally
 
 To explore the source code or play the game directly within the engine, follow these steps:
 
@@ -102,7 +102,7 @@ To explore the source code or play the game directly within the engine, follow t
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 I am a developer who loves bridging the gap between game logic and modern web interfaces. I'm always open to discussing game development, front-end architecture, or any interesting technical challenges!
 
