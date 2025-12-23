@@ -2,8 +2,7 @@
 
 > A strategic 2D Tower Defense game built with Unity and C#, showcasing robust game logic, dynamic systems, and an in-depth economy, all reflecting core principles of modern software development.
 
-(<img width="908" height="200" alt="Screenshot 2025-08-21 155343" src="https://github.com/user-attachments/assets/fca21650-270e-42b5-83a0-844882d832cd" />) 
-**(**Suggested GIF 1**: A short clip of the game's title screen or main menu, showing the overall aesthetic.)*
+<img width="908" height="200" alt="Screenshot 2025-08-21 155343" src="https://github.com/user-attachments/assets/fca21650-270e-42b5-83a0-844882d832cd" />
 
 ---
 
@@ -15,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-* **Play in Browser:** (https://thelink9412.itch.io/crystal-of-fate)
+* **Link to the build:** https://thelink9412.itch.io/crystal-of-fate
 
 ---
 
@@ -24,15 +23,9 @@
 * **Strategic Room Defense:** Position unique defensive characters in various rooms to create an impenetrable perimeter around the Crystal.
 * **Dynamic Enemy Spawns:** Face randomized enemy waves across three distinct rarity categories, each offering escalating challenges and rewards.
 * **Progressive Difficulty:** Conquer 4 challenging levels, each divided into 4 intense rounds, totaling 16 unique engagements.
-
-
-
-
 * **Gold Economy & Upgrades:** Earn Gold by defeating enemies (rarer enemies drop more!). Invest your earnings between rounds to strengthen your characters and prepare for tougher challenges.
 
-
 (https://github.com/user-attachments/assets/5b8e83ca-40ca-40b3-8df8-c69ba2bfe866)
-
 
 ---
 
@@ -94,7 +87,7 @@ To explore the source code or play the game directly within the engine, follow t
 1.  **Clone the Repository:**
     Open your terminal and run:
     ```bash
-    git clone [https://github.com/Thelink9412/CrystalOfFate.git](https://github.com/Thelink9412/CrystalOfFate.git)
+    git clone https://github.com/Thelink9412/CrystalOfFate.git
     ```
 
 2.  **Open in Unity Hub:**
