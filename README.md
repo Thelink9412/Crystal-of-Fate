@@ -2,7 +2,7 @@
 
 > A strategic 2D Tower Defense game built with Unity and C#, showcasing robust game logic, dynamic systems, and an in-depth economy, all reflecting core principles of modern software development.
 
-<img width="908" height="200" alt="Screenshot 2025-08-21 155343" src="https://github.com/user-attachments/assets/fca21650-270e-42b5-83a0-844882d832cd" />
+<img width="908" height="200" alt="Title Screenshot" src="https://github.com/user-attachments/assets/fca21650-270e-42b5-83a0-844882d832cd" />
 
 ---
 
@@ -25,7 +25,7 @@
 * **Progressive Difficulty:** Conquer 4 challenging levels, each divided into 4 intense rounds, totaling 16 unique engagements.
 * **Gold Economy & Upgrades:** Earn Gold by defeating enemies (rarer enemies drop more!). Invest your earnings between rounds to strengthen your characters and prepare for tougher challenges.
 
-(https://github.com/user-attachments/assets/5b8e83ca-40ca-40b3-8df8-c69ba2bfe866)
+<img width="600" height="600" alt="Gameplay Gif" src="https://github.com/user-attachments/assets/5b8e83ca-40ca-40b3-8df8-c69ba2bfe866" />
 
 ---
 
@@ -108,8 +108,8 @@ To explore the source code or play the game directly within the engine, follow t
 
 I am a developer who loves bridging the gap between game logic and modern web interfaces. I'm always open to discussing game development, front-end architecture, or any interesting technical challenges!
 
-* **LinkedIn:** [Your Name / Profile Link](https://www.linkedin.com/in/luca-baudo-2728a7358)
-* **GitHub:** [@your-username](https://github.com/Thelink9412)
-* **Email:** [your.email@example.com](mailto:lucabaudo9412@gmail.com)
+* **LinkedIn:** [Luca Baudo](https://www.linkedin.com/in/luca-baudo-2728a7358)
+* **GitHub:** [@Thelink9412](https://github.com/Thelink9412)
+* **Email:** [lucabaudo9412@gmail.com](mailto:lucabaudo9412@gmail.com)
 
 ---
