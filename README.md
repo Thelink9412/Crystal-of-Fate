@@ -25,7 +25,7 @@
 * **Progressive Difficulty:** Conquer 4 challenging levels, each divided into 4 intense rounds, totaling 16 unique engagements.
 * **Gold Economy & Upgrades:** Earn Gold by defeating enemies (rarer enemies drop more!). Invest your earnings between rounds to strengthen your characters and prepare for tougher challenges.
 
-<img width="600" height="600" alt="Gameplay Gif" src="https://github.com/user-attachments/assets/5b8e83ca-40ca-40b3-8df8-c69ba2bfe866" />
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc4MDB1MTdjMHExZndtYzcxNTY1bHNoOXZsNWRjZDJqcnI5bzJybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BIo1PgmFD1Ul6Kubs/giphy.gif)
 
 ---
 
